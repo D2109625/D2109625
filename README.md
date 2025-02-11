@@ -7,6 +7,10 @@
 
 ---
 
+![snake animation](https://github.com/<seu d2109625>/<seu d2109625>/blob/output/github-contribution-grid-snake2.svg)
+
+---
+
 - 🌱 I’m currently learning **BSc Computer Science Degree at UCSC**
 
 - 📝 I regularly write articles on [https://medium.com/@dinushikagedarawatta](https://medium.com/@dinushikagedarawatta)
